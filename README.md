@@ -41,7 +41,19 @@ The dataset contains **1,465 rows and 16 columns** of web-scraped Amazon product
 
 ##  Tools Used
 - Microsoft Excel (Pivot Tables, Calculated Columns, Dashboard Design)  
-- Basic Excel Formulas: `IF`, `IFS`, `COUNTIF`, `AVERAGE`, `SUMPRODUCT`, `MAX`  
+- Basic Excel Formulas: `IF`, `IFS`, `COUNTIF`, `AVERAGE`, `SUMPRODUCT`, `MAX`
+
+## Visuals & Dashboard
+![Amazon Product Review Analysis (DSA Project)](https://github.com/user-attachments/assets/4a420030-8fd1-446e-8793-ee31571c14de)
+![Amazon Product Review Workbook (DSA Project)](https://github.com/user-attachments/assets/b2a2c323-f4a9-450b-87b3-e108c31281a8)
+![Amazon Product Review Pivot Table (DSA Project)](https://github.com/user-attachments/assets/498f7b39-1907-4253-b1f1-7b511e471a86)
+![Amazon Product Review Chart(DSA Project)](https://github.com/user-attachments/assets/089365d4-04e2-47f0-beae-be618fb70505)
+
+
+
+
+
+
 
 
 
