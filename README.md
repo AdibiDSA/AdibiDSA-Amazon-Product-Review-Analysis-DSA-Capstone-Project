@@ -93,6 +93,60 @@ The dataset contains **1,465 rows and 16 columns** of web-scraped Amazon product
 | **Slicers & Cards**    | Enabled dynamic filtering and key metric display using slicers and summary cards     |
 | **Business Reasoning** | Drew conclusions based on observed trends and real-world business logic              |
 
+##  Business Insights (Summary)
+
+- **High Discount Strategy**  
+  Over 65% of products have a discount of 50% or more. While this may increase visibility and drive sales, it could also affect long-term brand perception and profit margins.
+
+- **Category Dominance**  
+  *Computers & Accessories* and *Toys & Games* dominate in both product volume and customer engagement, indicating key areas of focus for sellers and advertisers.
+
+- **Customer Engagement**  
+  The volume of ratings and reviews is heavily skewed toward a few high-performing categories and products, suggesting the need for targeted customer feedback strategies in lower-performing segments.
+
+- **Affordability Drives Sales**  
+  The ₹200–₹500 price range holds the majority of products, showing that affordability is a major factor influencing customer buying behavior on the platform.
+
+- **Top Rated ≠ Most Discounted**  
+  Products with the highest discounts are not necessarily the top-rated, highlighting that quality and value perception matter more to customers than just price cuts.
+
+- **Low Visibility Risk**  
+  A large number of products (over 1,300) have fewer than 1,000 reviews, pointing to potential underperformance or a need for better marketing and visibility strategies.
+
+- **Revenue Leaders**  
+  *Computers & Accessories* not only has high engagement but also leads in potential revenue, making it a high-priority category for investment and growth.
+
+- **Data-Driven Opportunity**  
+  Identifying the overlap between rating, review count, and discount levels can help sellers fine-tune product positioning and promotional efforts.
+
+  ##  Tools and Environment
+
+| **Tool/Technology** | **Purpose**                                        |
+|---------------------|----------------------------------------------------|
+| **Microsoft Excel** | Core tool for data cleaning, analysis, and dashboard creation |
+| **Pivot Tables**     | Used for summarizing and aggregating large data sets |
+| **Excel Charts**     | Visualized insights using bar, pie, line, donut, and card charts |
+| **Slicers**          | Enabled interactivity and dynamic filtering in the dashboard |
+| **Calculated Columns** | Created custom metrics (e.g., discount %, combined score) |
+| **Windows OS**       | Primary operating environment for Excel work       |
+| **GitHub**           | Version control and project portfolio hosting      |
+
+##  About Me
+
+**Adibi Mabun Olayinka**  
+ *B.Sc. Computer Science with Statistics*  
+ *Payroll Administrator | Junior Data Analyst*  
+
+I have a passion for transforming data into meaningful visuals that support smarter business decisions.  
+This project showcases my growth in **Excel-based analysis** and **business intelligence reporting**.
+
+---
+
+##  Contact
+
+- **Email**: [mabunolayinka@gmail.com](mailto:mabunolayinka@gmail.com)  
+- **Phone**: +234 816 631 1995  
+- **LinkedIn**: [linkedin.com/in/olayinka-mabun-90764669](https://www.linkedin.com/in/olayinka-mabun-90764669)
 
 
 
